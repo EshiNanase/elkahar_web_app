@@ -1,8 +1,15 @@
 .page {
     background-image: url('images/bg.png');
-    max-width: 365px;
-    max-height: 543px;
+    max-width: 380px;
+    max-height: 558px;
     position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+.background_image {
+    visibility: hidden;
     top: 0px;
     left: 0px;
     right: 0px;
