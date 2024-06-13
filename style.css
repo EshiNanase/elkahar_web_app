@@ -1,4 +1,4 @@
-.page {
+#page {
     background-image: url('images/bg.png');
     max-width: 380px;
     max-height: 560px;
@@ -7,4 +7,12 @@
     left: 0px;
     right: 0px;
     bottom: 0px;
+}
+#level {
+     color: white;
+    padding-left: 10px
+}
+#exp {
+     color: white;
+    padding-left: 10px
 }
